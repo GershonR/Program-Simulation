@@ -1,13 +1,5 @@
 /*
  * A2main.cpp
- * COMP 2150 Object Orientation
- * (C) Computer Science, University of Manitoba
- *
- * Main function for Assignment 2
- */
-/*
- * Gershon Reydman 7763541
- * Comp 2150 A2
  */
 
 
