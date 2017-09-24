@@ -1,7 +1,6 @@
 /*
  * Util.cpp*
- * Gershon Reydman 7763541
- * Comp 2150 A2
+ * Static utility functions
  */
 #include "Util.h"
 #include "Data.h"
